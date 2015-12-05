@@ -1,6 +1,6 @@
 # Licence
 
-CC-0
+Cf. the .tex file and the .gabc files.
 
 # Sources
 
