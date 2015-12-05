@@ -1,4 +1,4 @@
-# Files
+# Fichiers
 Textes et partitions grégoriennes :
 - antienne de l'*angelus domini* avec un *ave maria* du Liber Usualis de Solesmes, [ici](angelus.pdf) ;
 - *Creator alme siderum* (hymne), [ici](Avent.pdf). 
