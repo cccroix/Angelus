@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-lualatex --shell-escape *.tex && lualatex --shell-escape *.tex 
+for i in *.tex; do
+    lualatex --shell-escape "$i" && lualatex --shell-escape "$i"
+done
 exit 0;
